@@ -3,7 +3,7 @@
 ## Project Setup & Requirements
 
 ## API Documentation
-Access the API documentation at:
+Access the API documentation at (Program must be running):
 [Swagger UI](http://localhost:8080/swagger-ui.html)
 
 ---
